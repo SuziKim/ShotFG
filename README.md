@@ -1,5 +1,5 @@
 # Introduction
-An utility application which generate the shot frames for a given video 
+ShotFG (**S**hot **F**rame **G**enerator) is an utility application which generate the shot frames for a given video 
 
 # Requirements
 *   A C++ compiler, like g++
